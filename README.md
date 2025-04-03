@@ -1,2 +1,2 @@
 # PredictSentiment
-A simple app to predict a user's sentiment from their review.
+A simple Python 3 app for predicting sentiment (positive or negative) from user reviews, using scikit-learn.
